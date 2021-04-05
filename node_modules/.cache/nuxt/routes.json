@@ -1,0 +1,16 @@
+[
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "C:\\\\Users\\\\jenis\\\\kun\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_94819942"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\jenis\\\\kun\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_356b34f0"
+  }
+]
